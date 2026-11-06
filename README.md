@@ -34,7 +34,7 @@ Red Bull nabízí několik různých příchutí.
 
 ## 3. Jak Red Bull vypadá?
 
-![Red Bull Energy Drink](images/redbull.jpg)
+![Red Bull Energy Drink](1.jpg)
 
 *Originální plechovka Red Bull Energy Drink.*
 
